@@ -29,6 +29,7 @@ alt={`${index} banner`}
 
 
 </Carousel>
+
     )
 }
 
